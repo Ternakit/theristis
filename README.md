@@ -1,4 +1,4 @@
-# theristis v0.1.0
+# theristis v0.1.1
 ### A mod that implements my OC Theristis into Lethal Company
 
 ## Instructions
@@ -7,3 +7,5 @@
 ## Changelog
 	- v0.1.0
 		- Release
+	- v0.1.1
+	    - Fixed incorrect dependencies
